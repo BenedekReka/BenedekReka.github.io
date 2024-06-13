@@ -1,0 +1,1387 @@
+Megye;Ev; Valasok_szama 
+Bihor;1990; 828    
+Bihor;1991; 686    
+Bihor;1992; 455    
+Bihor;1993; 558    
+Bihor;1994; 553    
+Bihor;1995; 608    
+Bihor;1996; 396    
+Bihor;1997; 547    
+Bihor;1998; 663    
+Bihor;1999; 473    
+Bihor;2000; 672    
+Bihor;2001; 530    
+Bihor;2002; 624    
+Bihor;2003; 734    
+Bihor;2004; 662    
+Bihor;2005; 622    
+Bihor;2006; 425    
+Bihor;2007; 512    
+Bihor;2008; 528    
+Bihor;2009; 637    
+Bihor;2010; 1 016    
+Bihor;2011; 1 158    
+Bihor;2012; 873    
+Bihor;2013; 797    
+Bihor;2014; 743    
+Bihor;2015; 1 005    
+Bihor;2016; 1 028    
+Bihor;2017; 1 004    
+Bihor;2018; 925    
+Bihor;2019; 993    
+Bihor;2020; 793    
+Bihor;2021; 927    
+Bihor;2022; 806    
+Bistrita-Nasaud;1990; 322    
+Bistrita-Nasaud;1991; 270    
+Bistrita-Nasaud;1992; 350    
+Bistrita-Nasaud;1993; 413    
+Bistrita-Nasaud;1994; 533    
+Bistrita-Nasaud;1995; 424    
+Bistrita-Nasaud;1996; 499    
+Bistrita-Nasaud;1997; 448    
+Bistrita-Nasaud;1998; 628    
+Bistrita-Nasaud;1999; 471    
+Bistrita-Nasaud;2000; 486    
+Bistrita-Nasaud;2001; 490    
+Bistrita-Nasaud;2002; 415    
+Bistrita-Nasaud;2003; 402    
+Bistrita-Nasaud;2004; 481    
+Bistrita-Nasaud;2005; 387    
+Bistrita-Nasaud;2006; 639    
+Bistrita-Nasaud;2007; 524    
+Bistrita-Nasaud;2008; 303    
+Bistrita-Nasaud;2009; 455    
+Bistrita-Nasaud;2010; 432    
+Bistrita-Nasaud;2011; 359    
+Bistrita-Nasaud;2012; 271    
+Bistrita-Nasaud;2013; 280    
+Bistrita-Nasaud;2014; 199    
+Bistrita-Nasaud;2015; 270    
+Bistrita-Nasaud;2016; 269    
+Bistrita-Nasaud;2017; 378    
+Bistrita-Nasaud;2018; 390    
+Bistrita-Nasaud;2019; 311    
+Bistrita-Nasaud;2020; 169    
+Bistrita-Nasaud;2021; 429    
+Bistrita-Nasaud;2022; 351    
+Cluj;1990; 1 053    
+Cluj;1991; 1 091    
+Cluj;1992; 1 003    
+Cluj;1993; 1 032    
+Cluj;1994; 836    
+Cluj;1995; 919    
+Cluj;1996; 806    
+Cluj;1997; 774    
+Cluj;1998; 964    
+Cluj;1999; 869    
+Cluj;2000; 839    
+Cluj;2001; 739    
+Cluj;2002; 1 022    
+Cluj;2003; 1 025    
+Cluj;2004; 1 267    
+Cluj;2005; 1 036    
+Cluj;2006; 979    
+Cluj;2007; 1 053    
+Cluj;2008; 1 291    
+Cluj;2009; 1 133    
+Cluj;2010; 1 041    
+Cluj;2011; 1 104    
+Cluj;2012; 1 017    
+Cluj;2013; 701    
+Cluj;2014; 696    
+Cluj;2015; 708    
+Cluj;2016; 768    
+Cluj;2017; 850    
+Cluj;2018; 778    
+Cluj;2019; 932    
+Cluj;2020; 672    
+Cluj;2021; 654    
+Cluj;2022; 588    
+Maramures;1990; 610    
+Maramures;1991; 691    
+Maramures;1992; 527    
+Maramures;1993; 704    
+Maramures;1994; 942    
+Maramures;1995; 701    
+Maramures;1996; 820    
+Maramures;1997; 774    
+Maramures;1998; 1 082    
+Maramures;1999; 804    
+Maramures;2000; 819    
+Maramures;2001; 823    
+Maramures;2002; 823    
+Maramures;2003; 933    
+Maramures;2004; 1 020    
+Maramures;2005; 906    
+Maramures;2006; 806    
+Maramures;2007; 1 016    
+Maramures;2008; 956    
+Maramures;2009; 811    
+Maramures;2010; 976    
+Maramures;2011; 900    
+Maramures;2012; 785    
+Maramures;2013; 691    
+Maramures;2014; 699    
+Maramures;2015; 799    
+Maramures;2016; 813    
+Maramures;2017; 768    
+Maramures;2018; 756    
+Maramures;2019; 723    
+Maramures;2020; 596    
+Maramures;2021; 639    
+Maramures;2022; 598    
+Satu Mare;1990; 556    
+Satu Mare;1991; 646    
+Satu Mare;1992; 442    
+Satu Mare;1993; 511    
+Satu Mare;1994; 547    
+Satu Mare;1995; 567    
+Satu Mare;1996; 674    
+Satu Mare;1997; 676    
+Satu Mare;1998; 687    
+Satu Mare;1999; 640    
+Satu Mare;2000; 592    
+Satu Mare;2001; 716    
+Satu Mare;2002; 881    
+Satu Mare;2003; 784    
+Satu Mare;2004; 763    
+Satu Mare;2005; 732    
+Satu Mare;2006; 655    
+Satu Mare;2007; 776    
+Satu Mare;2008; 677    
+Satu Mare;2009; 567    
+Satu Mare;2010; 709    
+Satu Mare;2011; 575    
+Satu Mare;2012; 566    
+Satu Mare;2013; 515    
+Satu Mare;2014; 496    
+Satu Mare;2015; 680    
+Satu Mare;2016; 581    
+Satu Mare;2017; 576    
+Satu Mare;2018; 554    
+Satu Mare;2019; 563    
+Satu Mare;2020; 388    
+Satu Mare;2021; 499    
+Satu Mare;2022; 414    
+Salaj;1990; 183    
+Salaj;1991; 219    
+Salaj;1992; 190    
+Salaj;1993; 227    
+Salaj;1994; 294    
+Salaj;1995; 271    
+Salaj;1996; 273    
+Salaj;1997; 310    
+Salaj;1998; 321    
+Salaj;1999; 275    
+Salaj;2000; 261    
+Salaj;2001; 269    
+Salaj;2002; 280    
+Salaj;2003; 317    
+Salaj;2004; 271    
+Salaj;2005; 256    
+Salaj;2006; 273    
+Salaj;2007; 280    
+Salaj;2008; 261    
+Salaj;2009; 347    
+Salaj;2010; 335    
+Salaj;2011; 327    
+Salaj;2012; 363    
+Salaj;2013; 303    
+Salaj;2014; 274    
+Salaj;2015; 358    
+Salaj;2016; 309    
+Salaj;2017; 321    
+Salaj;2018; 363    
+Salaj;2019; 324    
+Salaj;2020; 255    
+Salaj;2021; 338    
+Salaj;2022; 257    
+Alba;1990; 531    
+Alba;1991; 592    
+Alba;1992; 520    
+Alba;1993; 468    
+Alba;1994; 753    
+Alba;1995; 598    
+Alba;1996; 619    
+Alba;1997; 668    
+Alba;1998; 725    
+Alba;1999; 616    
+Alba;2000; 570    
+Alba;2001; 550    
+Alba;2002; 669    
+Alba;2003; 636    
+Alba;2004; 703    
+Alba;2005; 563    
+Alba;2006; 555    
+Alba;2007; 530    
+Alba;2008; 618    
+Alba;2009; 566    
+Alba;2010; 692    
+Alba;2011; 717    
+Alba;2012; 618    
+Alba;2013; 510    
+Alba;2014; 512    
+Alba;2015; 625    
+Alba;2016; 607    
+Alba;2017; 599    
+Alba;2018; 609    
+Alba;2019; 603    
+Alba;2020; 343    
+Alba;2021; 578    
+Alba;2022; 444    
+Brasov;1990; 1 101    
+Brasov;1991; 792    
+Brasov;1992; 852    
+Brasov;1993; 997    
+Brasov;1994; 893    
+Brasov;1995; 1 325    
+Brasov;1996; 1 246    
+Brasov;1997; 1 411    
+Brasov;1998; 1 288    
+Brasov;1999; 1 277    
+Brasov;2000; 1 097    
+Brasov;2001; 1 047    
+Brasov;2002; 977    
+Brasov;2003; 1 013    
+Brasov;2004; 858    
+Brasov;2005; 1 075    
+Brasov;2006; 959    
+Brasov;2007; 1 630    
+Brasov;2008; 890    
+Brasov;2009; 1 657    
+Brasov;2010; 903    
+Brasov;2011; 1 396    
+Brasov;2012; 945    
+Brasov;2013; 1 075    
+Brasov;2014; 1 124    
+Brasov;2015; 1 083    
+Brasov;2016; 1 024    
+Brasov;2017; 1 088    
+Brasov;2018; 1 128    
+Brasov;2019; 1 104    
+Brasov;2020; 872    
+Brasov;2021; 997    
+Brasov;2022; 966    
+Covasna;1990; 209    
+Covasna;1991; 269    
+Covasna;1992; 171    
+Covasna;1993; 168    
+Covasna;1994; 398    
+Covasna;1995; 379    
+Covasna;1996; 391    
+Covasna;1997; 331    
+Covasna;1998; 513    
+Covasna;1999; 352    
+Covasna;2000; 297    
+Covasna;2001; 290    
+Covasna;2002; 275    
+Covasna;2003; 322    
+Covasna;2004; 400    
+Covasna;2005; 396    
+Covasna;2006; 334    
+Covasna;2007; 354    
+Covasna;2008; 326    
+Covasna;2009; 285    
+Covasna;2010; 327    
+Covasna;2011; 283    
+Covasna;2012; 315    
+Covasna;2013; 203    
+Covasna;2014; 164    
+Covasna;2015; 293    
+Covasna;2016; 311    
+Covasna;2017; 233    
+Covasna;2018; 269    
+Covasna;2019; 259    
+Covasna;2020; 218    
+Covasna;2021; 227    
+Covasna;2022; 198    
+Harghita;1990; 337    
+Harghita;1991; 371    
+Harghita;1992; 346    
+Harghita;1993; 395    
+Harghita;1994; 473    
+Harghita;1995; 412    
+Harghita;1996; 440    
+Harghita;1997; 421    
+Harghita;1998; 449    
+Harghita;1999; 365    
+Harghita;2000; 330    
+Harghita;2001; 328    
+Harghita;2002; 336    
+Harghita;2003; 396    
+Harghita;2004; 395    
+Harghita;2005; 382    
+Harghita;2006; 374    
+Harghita;2007; 364    
+Harghita;2008; 372    
+Harghita;2009; 338    
+Harghita;2010; 384    
+Harghita;2011; 404    
+Harghita;2012; 371    
+Harghita;2013; 349    
+Harghita;2014; 286    
+Harghita;2015; 341    
+Harghita;2016; 333    
+Harghita;2017; 356    
+Harghita;2018; 334    
+Harghita;2019; 366    
+Harghita;2020; 282    
+Harghita;2021; 333    
+Harghita;2022; 270    
+Mures;1990; 744    
+Mures;1991; 920    
+Mures;1992; 627    
+Mures;1993; 885    
+Mures;1994; 925    
+Mures;1995; 776    
+Mures;1996; 815    
+Mures;1997; 739    
+Mures;1998; 1 000    
+Mures;1999; 836    
+Mures;2000; 692    
+Mures;2001; 655    
+Mures;2002; 711    
+Mures;2003; 757    
+Mures;2004; 854    
+Mures;2005; 741    
+Mures;2006; 759    
+Mures;2007; 784    
+Mures;2008; 880    
+Mures;2009; 728    
+Mures;2010; 864    
+Mures;2011; 771    
+Mures;2012; 760    
+Mures;2013; 576    
+Mures;2014; 623    
+Mures;2015; 685    
+Mures;2016; 707    
+Mures;2017; 681    
+Mures;2018; 711    
+Mures;2019; 753    
+Mures;2020; 584    
+Mures;2021; 765    
+Mures;2022; 524    
+Sibiu;1990; 756    
+Sibiu;1991; 873    
+Sibiu;1992; 766    
+Sibiu;1993; 739    
+Sibiu;1994; 994    
+Sibiu;1995; 921    
+Sibiu;1996; 917    
+Sibiu;1997; 954    
+Sibiu;1998; 1 114    
+Sibiu;1999; 913    
+Sibiu;2000; 862    
+Sibiu;2001; 874    
+Sibiu;2002; 861    
+Sibiu;2003; 920    
+Sibiu;2004; 832    
+Sibiu;2005; 895    
+Sibiu;2006; 800    
+Sibiu;2007; 760    
+Sibiu;2008; 716    
+Sibiu;2009; 667    
+Sibiu;2010; 792    
+Sibiu;2011; 872    
+Sibiu;2012; 782    
+Sibiu;2013; 533    
+Sibiu;2014; 564    
+Sibiu;2015; 687    
+Sibiu;2016; 727    
+Sibiu;2017; 804    
+Sibiu;2018; 708    
+Sibiu;2019; 776    
+Sibiu;2020; 554    
+Sibiu;2021; 654    
+Sibiu;2022; 529    
+Bacau;1990; 996    
+Bacau;1991; 1 063    
+Bacau;1992; 846    
+Bacau;1993; 1 118    
+Bacau;1994; 1 522    
+Bacau;1995; 1 331    
+Bacau;1996; 1 333    
+Bacau;1997; 1 483    
+Bacau;1998; 2 015    
+Bacau;1999; 1 709    
+Bacau;2000; 1 523    
+Bacau;2001; 1 420    
+Bacau;2002; 1 583    
+Bacau;2003; 1 560    
+Bacau;2004; 1 837    
+Bacau;2005; 1 421    
+Bacau;2006; 1 507    
+Bacau;2007; 1 399    
+Bacau;2008; 1 796    
+Bacau;2009; 1 304    
+Bacau;2010; 1 398    
+Bacau;2011; 1 415    
+Bacau;2012; 1 124    
+Bacau;2013; 1 072    
+Bacau;2014; 1 001    
+Bacau;2015; 968    
+Bacau;2016; 979    
+Bacau;2017; 1 078    
+Bacau;2018; 1 145    
+Bacau;2019; 1 037    
+Bacau;2020; 836    
+Bacau;2021; 910    
+Bacau;2022; 822    
+Botosani;1990; 443    
+Botosani;1991; 452    
+Botosani;1992; 352    
+Botosani;1993; 481    
+Botosani;1994; 770    
+Botosani;1995; 676    
+Botosani;1996; 608    
+Botosani;1997; 724    
+Botosani;1998; 802    
+Botosani;1999; 662    
+Botosani;2000; 704    
+Botosani;2001; 616    
+Botosani;2002; 698    
+Botosani;2003; 711    
+Botosani;2004; 707    
+Botosani;2005; 768    
+Botosani;2006; 688    
+Botosani;2007; 755    
+Botosani;2008; 752    
+Botosani;2009; 711    
+Botosani;2010; 795    
+Botosani;2011; 667    
+Botosani;2012; 502    
+Botosani;2013; 487    
+Botosani;2014; 747    
+Botosani;2015; 923    
+Botosani;2016; 629    
+Botosani;2017; 857    
+Botosani;2018; 662    
+Botosani;2019; 666    
+Botosani;2020; 389    
+Botosani;2021; 601    
+Botosani;2022; 497    
+Iasi;1990; 1 120    
+Iasi;1991; 1 161    
+Iasi;1992; 674    
+Iasi;1993; 743    
+Iasi;1994; 1 361    
+Iasi;1995; 1 191    
+Iasi;1996; 1 183    
+Iasi;1997; 1 248    
+Iasi;1998; 1 585    
+Iasi;1999; 1 254    
+Iasi;2000; 1 103    
+Iasi;2001; 1 001    
+Iasi;2002; 849    
+Iasi;2003; 841    
+Iasi;2004; 889    
+Iasi;2005; 707    
+Iasi;2006; 602    
+Iasi;2007; 552    
+Iasi;2008; 792    
+Iasi;2009; 783    
+Iasi;2010; 973    
+Iasi;2011; 967    
+Iasi;2012; 891    
+Iasi;2013; 1 094    
+Iasi;2014; 1 046    
+Iasi;2015; 1 106    
+Iasi;2016; 1 074    
+Iasi;2017; 1 103    
+Iasi;2018; 1 293    
+Iasi;2019; 1 109    
+Iasi;2020; 1 028    
+Iasi;2021; 1 239    
+Iasi;2022; 949    
+Neamt;1990; 684    
+Neamt;1991; 856    
+Neamt;1992; 615    
+Neamt;1993; 491    
+Neamt;1994; 783    
+Neamt;1995; 889    
+Neamt;1996; 978    
+Neamt;1997; 886    
+Neamt;1998; 863    
+Neamt;1999; 739    
+Neamt;2000; 776    
+Neamt;2001; 980    
+Neamt;2002; 1 003    
+Neamt;2003; 997    
+Neamt;2004; 1 156    
+Neamt;2005; 1 206    
+Neamt;2006; 1 120    
+Neamt;2007; 1 066    
+Neamt;2008; 1 246    
+Neamt;2009; 1 175    
+Neamt;2010; 1 080    
+Neamt;2011; 1 204    
+Neamt;2012; 931    
+Neamt;2013; 877    
+Neamt;2014; 794    
+Neamt;2015; 757    
+Neamt;2016; 784    
+Neamt;2017; 925    
+Neamt;2018; 901    
+Neamt;2019; 826    
+Neamt;2020; 624    
+Neamt;2021; 533    
+Neamt;2022; 616    
+Suceava;1990; 960    
+Suceava;1991; 1 299    
+Suceava;1992; 946    
+Suceava;1993; 931    
+Suceava;1994; 1 137    
+Suceava;1995; 1 083    
+Suceava;1996; 1 337    
+Suceava;1997; 1 252    
+Suceava;1998; 1 531    
+Suceava;1999; 1 352    
+Suceava;2000; 1 188    
+Suceava;2001; 1 117    
+Suceava;2002; 1 102    
+Suceava;2003; 1 275    
+Suceava;2004; 1 348    
+Suceava;2005; 1 258    
+Suceava;2006; 1 221    
+Suceava;2007; 1 247    
+Suceava;2008; 1 504    
+Suceava;2009; 1 252    
+Suceava;2010; 1 173    
+Suceava;2011; 1 076    
+Suceava;2012; 1 272    
+Suceava;2013; 971    
+Suceava;2014; 960    
+Suceava;2015; 1 084    
+Suceava;2016; 1 028    
+Suceava;2017; 1 029    
+Suceava;2018; 957    
+Suceava;2019; 1 020    
+Suceava;2020; 774    
+Suceava;2021; 838    
+Suceava;2022; 783    
+Vaslui;1990; 487    
+Vaslui;1991; 571    
+Vaslui;1992; 511    
+Vaslui;1993; 561    
+Vaslui;1994; 798    
+Vaslui;1995; 645    
+Vaslui;1996; 683    
+Vaslui;1997; 679    
+Vaslui;1998; 634    
+Vaslui;1999; 744    
+Vaslui;2000; 539    
+Vaslui;2001; 516    
+Vaslui;2002; 430    
+Vaslui;2003; 564    
+Vaslui;2004; 594    
+Vaslui;2005; 522    
+Vaslui;2006; 611    
+Vaslui;2007; 919    
+Vaslui;2008; 858    
+Vaslui;2009; 863    
+Vaslui;2010; 952    
+Vaslui;2011; 824    
+Vaslui;2012; 744    
+Vaslui;2013; 653    
+Vaslui;2014; 667    
+Vaslui;2015; 764    
+Vaslui;2016; 598    
+Vaslui;2017; 603    
+Vaslui;2018; 657    
+Vaslui;2019; 643    
+Vaslui;2020; 525    
+Vaslui;2021; 704    
+Vaslui;2022; 500    
+Braila;1990; 714    
+Braila;1991; 808    
+Braila;1992; 704    
+Braila;1993; 815    
+Braila;1994; 893    
+Braila;1995; 755    
+Braila;1996; 733    
+Braila;1997; 737    
+Braila;1998; 826    
+Braila;1999; 658    
+Braila;2000; 695    
+Braila;2001; 666    
+Braila;2002; 784    
+Braila;2003; 686    
+Braila;2004; 749    
+Braila;2005; 827    
+Braila;2006; 829    
+Braila;2007; 799    
+Braila;2008; 888    
+Braila;2009; 733    
+Braila;2010; 664    
+Braila;2011; 864    
+Braila;2012; 705    
+Braila;2013; 708    
+Braila;2014; 703    
+Braila;2015; 726    
+Braila;2016; 680    
+Braila;2017; 654    
+Braila;2018; 661    
+Braila;2019; 619    
+Braila;2020; 428    
+Braila;2021; 470    
+Braila;2022; 517    
+Buzau;1990; 508    
+Buzau;1991; 577    
+Buzau;1992; 369    
+Buzau;1993; 425    
+Buzau;1994; 456    
+Buzau;1995; 636    
+Buzau;1996; 828    
+Buzau;1997; 719    
+Buzau;1998; 897    
+Buzau;1999; 692    
+Buzau;2000; 706    
+Buzau;2001; 749    
+Buzau;2002; 698    
+Buzau;2003; 736    
+Buzau;2004; 785    
+Buzau;2005; 726    
+Buzau;2006; 821    
+Buzau;2007; 873    
+Buzau;2008; 825    
+Buzau;2009; 781    
+Buzau;2010; 824    
+Buzau;2011; 746    
+Buzau;2012; 490    
+Buzau;2013; 556    
+Buzau;2014; 526    
+Buzau;2015; 628    
+Buzau;2016; 656    
+Buzau;2017; 601    
+Buzau;2018; 515    
+Buzau;2019; 547    
+Buzau;2020; 380    
+Buzau;2021; 493    
+Buzau;2022; 367    
+Constanta;1990; 1 112    
+Constanta;1991; 1 453    
+Constanta;1992; 897    
+Constanta;1993; 957    
+Constanta;1994; 870    
+Constanta;1995; 693    
+Constanta;1996; 841    
+Constanta;1997; 905    
+Constanta;1998; 924    
+Constanta;1999; 880    
+Constanta;2000; 1 259    
+Constanta;2001; 1 409    
+Constanta;2002; 1 174    
+Constanta;2003; 1 039    
+Constanta;2004; 1 023    
+Constanta;2005; 974    
+Constanta;2006; 882    
+Constanta;2007; 957    
+Constanta;2008; 935    
+Constanta;2009; 773    
+Constanta;2010; 912    
+Constanta;2011; 1 211    
+Constanta;2012; 1 181    
+Constanta;2013; 1 271    
+Constanta;2014; 1 282    
+Constanta;2015; 1 331    
+Constanta;2016; 1 398    
+Constanta;2017; 1 222    
+Constanta;2018; 1 178    
+Constanta;2019; 1 300    
+Constanta;2020; 984    
+Constanta;2021; 1 140    
+Constanta;2022; 1 009    
+Galati;1990; 970    
+Galati;1991; 1 289    
+Galati;1992; 1 012    
+Galati;1993; 947    
+Galati;1994; 881    
+Galati;1995; 1 167    
+Galati;1996; 1 169    
+Galati;1997; 1 029    
+Galati;1998; 1 359    
+Galati;1999; 1 262    
+Galati;2000; 1 249    
+Galati;2001; 1 045    
+Galati;2002; 1 145    
+Galati;2003; 1 356    
+Galati;2004; 1 360    
+Galati;2005; 1 272    
+Galati;2006; 1 511    
+Galati;2007; 1 515    
+Galati;2008; 1 454    
+Galati;2009; 978    
+Galati;2010; 1 005    
+Galati;2011; 1 286    
+Galati;2012; 1 105    
+Galati;2013; 889    
+Galati;2014; 748    
+Galati;2015; 1 145    
+Galati;2016; 926    
+Galati;2017; 964    
+Galati;2018; 755    
+Galati;2019; 517    
+Galati;2020; 808    
+Galati;2021; 903    
+Galati;2022; 581    
+Tulcea;1990; 221    
+Tulcea;1991; 295    
+Tulcea;1992; 199    
+Tulcea;1993; 181    
+Tulcea;1994; 280    
+Tulcea;1995; 360    
+Tulcea;1996; 387    
+Tulcea;1997; 511    
+Tulcea;1998; 591    
+Tulcea;1999; 463    
+Tulcea;2000; 358    
+Tulcea;2001; 507    
+Tulcea;2002; 495    
+Tulcea;2003; 449    
+Tulcea;2004; 422    
+Tulcea;2005; 484    
+Tulcea;2006; 446    
+Tulcea;2007; 492    
+Tulcea;2008; 559    
+Tulcea;2009; 280    
+Tulcea;2010; 394    
+Tulcea;2011; 444    
+Tulcea;2012; 362    
+Tulcea;2013; 310    
+Tulcea;2014; 205    
+Tulcea;2015; 188    
+Tulcea;2016; 116    
+Tulcea;2017; 236    
+Tulcea;2018; 271    
+Tulcea;2019; 297    
+Tulcea;2020; 220    
+Tulcea;2021; 360    
+Tulcea;2022; 253    
+Vrancea;1990; 496    
+Vrancea;1991; 711    
+Vrancea;1992; 459    
+Vrancea;1993; 545    
+Vrancea;1994; 820    
+Vrancea;1995; 821    
+Vrancea;1996; 858    
+Vrancea;1997; 785    
+Vrancea;1998; 913    
+Vrancea;1999; 823    
+Vrancea;2000; 671    
+Vrancea;2001; 671    
+Vrancea;2002; 652    
+Vrancea;2003; 720    
+Vrancea;2004; 653    
+Vrancea;2005; 590    
+Vrancea;2006; 693    
+Vrancea;2007; 784    
+Vrancea;2008; 685    
+Vrancea;2009; 550    
+Vrancea;2010; 477    
+Vrancea;2011; 475    
+Vrancea;2012; 441    
+Vrancea;2013; 374    
+Vrancea;2014; 359    
+Vrancea;2015; 471    
+Vrancea;2016; 519    
+Vrancea;2017; 455    
+Vrancea;2018; 347    
+Vrancea;2019; 424    
+Vrancea;2020; 253    
+Vrancea;2021; 337    
+Vrancea;2022; 232    
+Arges;1990; 870    
+Arges;1991; 1 146    
+Arges;1992; 969    
+Arges;1993; 898    
+Arges;1994; 1 362    
+Arges;1995; 779    
+Arges;1996; 1 044    
+Arges;1997; 889    
+Arges;1998; 1 339    
+Arges;1999; 864    
+Arges;2000; 757    
+Arges;2001; 1 056    
+Arges;2002; 934    
+Arges;2003; 884    
+Arges;2004; 1 071    
+Arges;2005; 1 021    
+Arges;2006; 1 121    
+Arges;2007; 1 078    
+Arges;2008; 948    
+Arges;2009; 866    
+Arges;2010; 1 235    
+Arges;2011; 1 332    
+Arges;2012; 1 026    
+Arges;2013; 957    
+Arges;2014; 904    
+Arges;2015; 989    
+Arges;2016; 863    
+Arges;2017; 1 193    
+Arges;2018; 1 091    
+Arges;2019; 1 179    
+Arges;2020; 767    
+Arges;2021; 848    
+Arges;2022; 1 039    
+Calarasi;1990; 385    
+Calarasi;1991; 467    
+Calarasi;1992; 342    
+Calarasi;1993; 331    
+Calarasi;1994; 459    
+Calarasi;1995; 470    
+Calarasi;1996; 461    
+Calarasi;1997; 644    
+Calarasi;1998; 650    
+Calarasi;1999; 478    
+Calarasi;2000; 404    
+Calarasi;2001; 426    
+Calarasi;2002; 488    
+Calarasi;2003; 546    
+Calarasi;2004; 633    
+Calarasi;2005; 715    
+Calarasi;2006; 690    
+Calarasi;2007; 851    
+Calarasi;2008; 691    
+Calarasi;2009; 592    
+Calarasi;2010; 597    
+Calarasi;2011; 579    
+Calarasi;2012; 503    
+Calarasi;2013; 419    
+Calarasi;2014; 414    
+Calarasi;2015; 487    
+Calarasi;2016; 419    
+Calarasi;2017; 424    
+Calarasi;2018; 418    
+Calarasi;2019; 409    
+Calarasi;2020; 340    
+Calarasi;2021; 264    
+Calarasi;2022; 323    
+Dambovita;1990; 766    
+Dambovita;1991; 894    
+Dambovita;1992; 569    
+Dambovita;1993; 591    
+Dambovita;1994; 942    
+Dambovita;1995; 737    
+Dambovita;1996; 724    
+Dambovita;1997; 1 066    
+Dambovita;1998; 703    
+Dambovita;1999; 841    
+Dambovita;2000; 753    
+Dambovita;2001; 942    
+Dambovita;2002; 899    
+Dambovita;2003; 905    
+Dambovita;2004; 968    
+Dambovita;2005; 816    
+Dambovita;2006; 882    
+Dambovita;2007; 833    
+Dambovita;2008; 885    
+Dambovita;2009; 770    
+Dambovita;2010; 793    
+Dambovita;2011; 896    
+Dambovita;2012; 669    
+Dambovita;2013; 640    
+Dambovita;2014; 548    
+Dambovita;2015; 842    
+Dambovita;2016; 759    
+Dambovita;2017; 720    
+Dambovita;2018; 864    
+Dambovita;2019; 877    
+Dambovita;2020; 596    
+Dambovita;2021; 670    
+Dambovita;2022; 629    
+Giurgiu;1990; 324    
+Giurgiu;1991; 369    
+Giurgiu;1992; 229    
+Giurgiu;1993; 240    
+Giurgiu;1994; 396    
+Giurgiu;1995; 340    
+Giurgiu;1996; 212    
+Giurgiu;1997; 341    
+Giurgiu;1998; 364    
+Giurgiu;1999; 276    
+Giurgiu;2000; 214    
+Giurgiu;2001; 194    
+Giurgiu;2002; 151    
+Giurgiu;2003; 154    
+Giurgiu;2004; 173    
+Giurgiu;2005; 210    
+Giurgiu;2006; 183    
+Giurgiu;2007; 188    
+Giurgiu;2008; 252    
+Giurgiu;2009; 237    
+Giurgiu;2010; 255    
+Giurgiu;2011; 300    
+Giurgiu;2012; 297    
+Giurgiu;2013; 264    
+Giurgiu;2014; 148    
+Giurgiu;2015; 226    
+Giurgiu;2016; 316    
+Giurgiu;2017; 355    
+Giurgiu;2018; 251    
+Giurgiu;2019; 310    
+Giurgiu;2020; 276    
+Giurgiu;2021; 363    
+Giurgiu;2022; 207    
+Ialomita;1990; 319    
+Ialomita;1991; 439    
+Ialomita;1992; 345    
+Ialomita;1993; 389    
+Ialomita;1994; 544    
+Ialomita;1995; 437    
+Ialomita;1996; 455    
+Ialomita;1997; 467    
+Ialomita;1998; 476    
+Ialomita;1999; 423    
+Ialomita;2000; 427    
+Ialomita;2001; 394    
+Ialomita;2002; 404    
+Ialomita;2003; 376    
+Ialomita;2004; 468    
+Ialomita;2005; 382    
+Ialomita;2006; 365    
+Ialomita;2007; 486    
+Ialomita;2008; 486    
+Ialomita;2009; 353    
+Ialomita;2010; 334    
+Ialomita;2011; 468    
+Ialomita;2012; 411    
+Ialomita;2013; 363    
+Ialomita;2014; 269    
+Ialomita;2015; 344    
+Ialomita;2016; 413    
+Ialomita;2017; 325    
+Ialomita;2018; 438    
+Ialomita;2019; 371    
+Ialomita;2020; 383    
+Ialomita;2021; 328    
+Ialomita;2022; 256    
+Prahova;1990; 1 485    
+Prahova;1991; 1 864    
+Prahova;1992; 1 638    
+Prahova;1993; 1 705    
+Prahova;1994; 2 083    
+Prahova;1995; 1 688    
+Prahova;1996; 1 833    
+Prahova;1997; 1 364    
+Prahova;1998; 1 565    
+Prahova;1999; 1 708    
+Prahova;2000; 1 086    
+Prahova;2001; 955    
+Prahova;2002; 1 527    
+Prahova;2003; 1 422    
+Prahova;2004; 1 553    
+Prahova;2005; 1 382    
+Prahova;2006; 1 313    
+Prahova;2007; 1 573    
+Prahova;2008; 1 650    
+Prahova;2009; 1 594    
+Prahova;2010; 1 389    
+Prahova;2011; 1 418    
+Prahova;2012; 1 080    
+Prahova;2013; 1 088    
+Prahova;2014; 1 085    
+Prahova;2015; 1 153    
+Prahova;2016; 1 187    
+Prahova;2017; 1 210    
+Prahova;2018; 1 271    
+Prahova;2019; 1 311    
+Prahova;2020; 840    
+Prahova;2021; 1 004    
+Prahova;2022; 842    
+Teleorman;1990; 472    
+Teleorman;1991; 557    
+Teleorman;1992; 467    
+Teleorman;1993; 520    
+Teleorman;1994; 509    
+Teleorman;1995; 514    
+Teleorman;1996; 511    
+Teleorman;1997; 538    
+Teleorman;1998; 543    
+Teleorman;1999; 512    
+Teleorman;2000; 493    
+Teleorman;2001; 532    
+Teleorman;2002; 537    
+Teleorman;2003; 550    
+Teleorman;2004; 559    
+Teleorman;2005; 544    
+Teleorman;2006; 637    
+Teleorman;2007; 647    
+Teleorman;2008; 609    
+Teleorman;2009; 555    
+Teleorman;2010; 568    
+Teleorman;2011; 575    
+Teleorman;2012; 464    
+Teleorman;2013; 496    
+Teleorman;2014; 447    
+Teleorman;2015; 528    
+Teleorman;2016; 559    
+Teleorman;2017; 614    
+Teleorman;2018; 531    
+Teleorman;2019; 508    
+Teleorman;2020; 400    
+Teleorman;2021; 407    
+Teleorman;2022; 399    
+Ilfov;1990; 318    
+Ilfov;1991; 293    
+Ilfov;1992; 220    
+Ilfov;1993; 181    
+Ilfov;1994; 251    
+Ilfov;1995; 186    
+Ilfov;1996; 120    
+Ilfov;1997; 118    
+Ilfov;1998; 155    
+Ilfov;1999; 127    
+Ilfov;2000; 149    
+Ilfov;2001; 194    
+Ilfov;2002; 135    
+Ilfov;2003; 204    
+Ilfov;2004; 194    
+Ilfov;2005; 130    
+Ilfov;2006; 133    
+Ilfov;2007; 259    
+Ilfov;2008; 354    
+Ilfov;2009; 395    
+Ilfov;2010; 339    
+Ilfov;2011; 346    
+Ilfov;2012; 293    
+Ilfov;2013; 366    
+Ilfov;2014; 476    
+Ilfov;2015; 563    
+Ilfov;2016; 748    
+Ilfov;2017; 782    
+Ilfov;2018; 858    
+Ilfov;2019; 782    
+Ilfov;2020; 524    
+Ilfov;2021; 565    
+Ilfov;2022; 542    
+Municipiul Bucuresti;1990; 4 628    
+Municipiul Bucuresti;1991; 4 868    
+Municipiul Bucuresti;1992; 3 817    
+Municipiul Bucuresti;1993; 3 852    
+Municipiul Bucuresti;1994; 5 628    
+Municipiul Bucuresti;1995; 3 806    
+Municipiul Bucuresti;1996; 3 534    
+Municipiul Bucuresti;1997; 2 646    
+Municipiul Bucuresti;1998; 3 553    
+Municipiul Bucuresti;1999; 3 293    
+Municipiul Bucuresti;2000; 2 708    
+Municipiul Bucuresti;2001; 2 386    
+Municipiul Bucuresti;2002; 2 000    
+Municipiul Bucuresti;2003; 2 421    
+Municipiul Bucuresti;2004; 3 034    
+Municipiul Bucuresti;2005; 3 083    
+Municipiul Bucuresti;2006; 2 844    
+Municipiul Bucuresti;2007; 3 510    
+Municipiul Bucuresti;2008; 3 390    
+Municipiul Bucuresti;2009; 2 863    
+Municipiul Bucuresti;2010; 2 763    
+Municipiul Bucuresti;2011; 3 949    
+Municipiul Bucuresti;2012; 3 421    
+Municipiul Bucuresti;2013; 2 876    
+Municipiul Bucuresti;2014; 2 759    
+Municipiul Bucuresti;2015; 3 421    
+Municipiul Bucuresti;2016; 3 075    
+Municipiul Bucuresti;2017; 2 740    
+Municipiul Bucuresti;2018; 2 888    
+Municipiul Bucuresti;2019; 2 641    
+Municipiul Bucuresti;2020; 2 021    
+Municipiul Bucuresti;2021; 2 600    
+Municipiul Bucuresti;2022; 2 016    
+Dolj;1990; 1 368    
+Dolj;1991; 818    
+Dolj;1992; 739    
+Dolj;1993; 802    
+Dolj;1994; 1 068    
+Dolj;1995; 1 072    
+Dolj;1996; 814    
+Dolj;1997; 869    
+Dolj;1998; 834    
+Dolj;1999; 699    
+Dolj;2000; 514    
+Dolj;2001; 593    
+Dolj;2002; 317    
+Dolj;2003; 434    
+Dolj;2004; 397    
+Dolj;2005; 379    
+Dolj;2006; 390    
+Dolj;2007; 697    
+Dolj;2008; 728    
+Dolj;2009; 586    
+Dolj;2010; 341    
+Dolj;2011; 380    
+Dolj;2012; 482    
+Dolj;2013; 428    
+Dolj;2014; 444    
+Dolj;2015; 526    
+Dolj;2016; 587    
+Dolj;2017; 571    
+Dolj;2018; 616    
+Dolj;2019; 605    
+Dolj;2020; 476    
+Dolj;2021; 521    
+Dolj;2022; 477    
+Gorj;1990; 531    
+Gorj;1991; 688    
+Gorj;1992; 544    
+Gorj;1993; 580    
+Gorj;1994; 749    
+Gorj;1995; 719    
+Gorj;1996; 783    
+Gorj;1997; 858    
+Gorj;1998; 750    
+Gorj;1999; 502    
+Gorj;2000; 292    
+Gorj;2001; 417    
+Gorj;2002; 441    
+Gorj;2003; 614    
+Gorj;2004; 513    
+Gorj;2005; 521    
+Gorj;2006; 509    
+Gorj;2007; 379    
+Gorj;2008; 317    
+Gorj;2009; 620    
+Gorj;2010; 415    
+Gorj;2011; 400    
+Gorj;2012; 606    
+Gorj;2013; 625    
+Gorj;2014; 573    
+Gorj;2015; 584    
+Gorj;2016; 615    
+Gorj;2017; 689    
+Gorj;2018; 674    
+Gorj;2019; 680    
+Gorj;2020; 482    
+Gorj;2021; 535    
+Gorj;2022; 555    
+Mehedinti;1990; 447    
+Mehedinti;1991; 536    
+Mehedinti;1992; 257    
+Mehedinti;1993; 356    
+Mehedinti;1994; 385    
+Mehedinti;1995; 269    
+Mehedinti;1996; 282    
+Mehedinti;1997; 413    
+Mehedinti;1998; 501    
+Mehedinti;1999; 466    
+Mehedinti;2000; 333    
+Mehedinti;2001; 391    
+Mehedinti;2002; 496    
+Mehedinti;2003; 544    
+Mehedinti;2004; 512    
+Mehedinti;2005; 554    
+Mehedinti;2006; 545    
+Mehedinti;2007; 544    
+Mehedinti;2008; 539    
+Mehedinti;2009; 486    
+Mehedinti;2010; 521    
+Mehedinti;2011; 498    
+Mehedinti;2012; 431    
+Mehedinti;2013; 288    
+Mehedinti;2014; 247    
+Mehedinti;2015; 326    
+Mehedinti;2016; 320    
+Mehedinti;2017; 250    
+Mehedinti;2018; 345    
+Mehedinti;2019; 435    
+Mehedinti;2020; 256    
+Mehedinti;2021; 362    
+Mehedinti;2022; 280    
+Olt;1990; 434    
+Olt;1991; 430    
+Olt;1992; 361    
+Olt;1993; 451    
+Olt;1994; 609    
+Olt;1995; 540    
+Olt;1996; 448    
+Olt;1997; 677    
+Olt;1998; 579    
+Olt;1999; 495    
+Olt;2000; 435    
+Olt;2001; 431    
+Olt;2002; 489    
+Olt;2003; 430    
+Olt;2004; 425    
+Olt;2005; 600    
+Olt;2006; 623    
+Olt;2007; 631    
+Olt;2008; 711    
+Olt;2009; 620    
+Olt;2010; 643    
+Olt;2011; 583    
+Olt;2012; 490    
+Olt;2013; 435    
+Olt;2014; 426    
+Olt;2015; 493    
+Olt;2016; 476    
+Olt;2017; 514    
+Olt;2018; 565    
+Olt;2019; 518    
+Olt;2020; 243    
+Olt;2021; 531    
+Olt;2022; 312    
+Valcea;1990; 631    
+Valcea;1991; 735    
+Valcea;1992; 351    
+Valcea;1993; 556    
+Valcea;1994; 332    
+Valcea;1995; 601    
+Valcea;1996; 1 052    
+Valcea;1997; 590    
+Valcea;1998; 580    
+Valcea;1999; 637    
+Valcea;2000; 609    
+Valcea;2001; 791    
+Valcea;2002; 664    
+Valcea;2003; 653    
+Valcea;2004; 722    
+Valcea;2005; 635    
+Valcea;2006; 620    
+Valcea;2007; 561    
+Valcea;2008; 771    
+Valcea;2009; 402    
+Valcea;2010; 265    
+Valcea;2011; 496    
+Valcea;2012; 526    
+Valcea;2013; 458    
+Valcea;2014; 398    
+Valcea;2015; 378    
+Valcea;2016; 264    
+Valcea;2017; 208    
+Valcea;2018; 215    
+Valcea;2019; 188    
+Valcea;2020; 144    
+Valcea;2021; 205    
+Valcea;2022; 334    
+Arad;1990; 990    
+Arad;1991; 1 108    
+Arad;1992; 967    
+Arad;1993; 983    
+Arad;1994; 1 172    
+Arad;1995; 1 034    
+Arad;1996; 1 051    
+Arad;1997; 915    
+Arad;1998; 1 125    
+Arad;1999; 943    
+Arad;2000; 864    
+Arad;2001; 927    
+Arad;2002; 866    
+Arad;2003; 855    
+Arad;2004; 842    
+Arad;2005; 706    
+Arad;2006; 718    
+Arad;2007; 936    
+Arad;2008; 792    
+Arad;2009; 657    
+Arad;2010; 604    
+Arad;2011; 733    
+Arad;2012; 838    
+Arad;2013; 724    
+Arad;2014; 532    
+Arad;2015; 545    
+Arad;2016; 497    
+Arad;2017; 699    
+Arad;2018; 681    
+Arad;2019; 489    
+Arad;2020; 478    
+Arad;2021; 361    
+Arad;2022; 495    
+Caras-Severin;1990; 5    
+Caras-Severin;1991; 6    
+Caras-Severin;1992; 6    
+Caras-Severin;1993; 6    
+Caras-Severin;1994; 7    
+Caras-Severin;1995; 6    
+Caras-Severin;1996; 5    
+Caras-Severin;1997; 6    
+Caras-Severin;1998; 7    
+Caras-Severin;1999; 5    
+Caras-Severin;2000; 4    
+Caras-Severin;2001; 5    
+Caras-Severin;2002; 5    
+Caras-Severin;2003; 4    
+Caras-Severin;2004; 5    
+Caras-Severin;2005; 5    
+Caras-Severin;2006; 5    
+Caras-Severin;2007; 5    
+Caras-Severin;2008; 6    
+Caras-Severin;2009; 7    
+Caras-Severin;2010; 6    
+Caras-Severin;2011; 8    
+Caras-Severin;2012; 5    
+Caras-Severin;2013; 5    
+Caras-Severin;2014; 5    
+Caras-Severin;2015; 6    
+Caras-Severin;2016; 5    
+Caras-Severin;2017; 5    
+Caras-Severin;2018; 5    
+Caras-Severin;2019; 4    
+Caras-Severin;2020; 2    
+Caras-Severin;2021; 3    
+Caras-Severin;2022; 1    
+Hunedoara;1990; 1 024    
+Hunedoara;1991; 1 383    
+Hunedoara;1992; 1 128    
+Hunedoara;1993; 1 481    
+Hunedoara;1994; 1 466    
+Hunedoara;1995; 1 487    
+Hunedoara;1996; 1 506    
+Hunedoara;1997; 1 454    
+Hunedoara;1998; 1 687    
+Hunedoara;1999; 1 606    
+Hunedoara;2000; 1 306    
+Hunedoara;2001; 1 241    
+Hunedoara;2002; 1 433    
+Hunedoara;2003; 1 463    
+Hunedoara;2004; 1 377    
+Hunedoara;2005; 1 162    
+Hunedoara;2006; 1 278    
+Hunedoara;2007; 1 315    
+Hunedoara;2008; 1 265    
+Hunedoara;2009; 1 091    
+Hunedoara;2010; 1 198    
+Hunedoara;2011; 1 174    
+Hunedoara;2012; 999    
+Hunedoara;2013; 854    
+Hunedoara;2014; 735    
+Hunedoara;2015; 803    
+Hunedoara;2016; 750    
+Hunedoara;2017; 797    
+Hunedoara;2018; 830    
+Hunedoara;2019; 824    
+Hunedoara;2020; 558    
+Hunedoara;2021; 728    
+Hunedoara;2022; 601    
+Timis;1990; 1 467    
+Timis;1991; 1 818    
+Timis;1992; 1 833    
+Timis;1993; 1 368    
+Timis;1994; 2 262    
+Timis;1995; 1 382    
+Timis;1996; 1 351    
+Timis;1997; 1 280    
+Timis;1998; 1 457    
+Timis;1999; 836    
+Timis;2000; 631    
+Timis;2001; 669    
+Timis;2002; 1 000    
+Timis;2003; 951    
+Timis;2004; 1 164    
+Timis;2005; 1 037    
+Timis;2006; 742    
+Timis;2007; 1 330    
+Timis;2008; 524    
+Timis;2009; 559    
+Timis;2010; 593    
+Timis;2011; 808    
+Timis;2012; 797    
+Timis;2013; 852    
+Timis;2014; 812    
+Timis;2015; 1 090    
+Timis;2016; 1 187    
+Timis;2017; 1 127    
+Timis;2018; 947    
+Timis;2019; 890    
+Timis;2020; 736    
+Timis;2021; 776    
+Timis;2022; 747    
