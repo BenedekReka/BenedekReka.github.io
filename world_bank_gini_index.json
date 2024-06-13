@@ -1,0 +1,1454 @@
+{
+  "observations": [
+    {
+      "date": "2020",
+      "value": 29.4,
+      "country": "Albania"
+    },
+    {
+      "date": "2019",
+      "value": 30.1,
+      "country": "Albania"
+    },
+    {
+      "date": "2018",
+      "value": 30.1,
+      "country": "Albania"
+    },
+    {
+      "date": "2017",
+      "value": 33.1,
+      "country": "Albania"
+    },
+    {
+      "date": "2016",
+      "value": 33.7,
+      "country": "Albania"
+    },
+    {
+      "date": "2015",
+      "value": 32.8,
+      "country": "Albania"
+    },
+    {
+      "date": "2014",
+      "value": 34.6,
+      "country": "Albania"
+    },
+    {
+      "date": "2012",
+      "value": 29,
+      "country": "Albania"
+    },
+    {
+      "date": "2008",
+      "value": 30,
+      "country": "Albania"
+    },
+    {
+      "date": "2005",
+      "value": 30.6,
+      "country": "Albania"
+    },
+    {
+      "date": "2002",
+      "value": 31.7,
+      "country": "Albania"
+    },
+    {
+      "date": "2011",
+      "value": 27.6,
+      "country": "Algeria"
+    },
+    {
+      "date": "2018",
+      "value": 51.3,
+      "country": "Angola"
+    },
+    {
+      "date": "2008",
+      "value": 42.7,
+      "country": "Angola"
+    },
+    {
+      "date": "2000",
+      "value": 52,
+      "country": "Angola"
+    },
+    {
+      "date": "2020",
+      "value": 42.7,
+      "country": "Argentina"
+    },
+    {
+      "date": "2019",
+      "value": 43.3,
+      "country": "Argentina"
+    },
+    {
+      "date": "2018",
+      "value": 41.7,
+      "country": "Argentina"
+    },
+    {
+      "date": "2017",
+      "value": 41.4,
+      "country": "Argentina"
+    },
+    {
+      "date": "2016",
+      "value": 42.3,
+      "country": "Argentina"
+    },
+    {
+      "date": "2014",
+      "value": 41.8,
+      "country": "Argentina"
+    },
+    {
+      "date": "2013",
+      "value": 41.1,
+      "country": "Argentina"
+    },
+    {
+      "date": "2012",
+      "value": 41.4,
+      "country": "Argentina"
+    },
+    {
+      "date": "2011",
+      "value": 42.7,
+      "country": "Argentina"
+    },
+    {
+      "date": "2010",
+      "value": 43.7,
+      "country": "Argentina"
+    },
+    {
+      "date": "2009",
+      "value": 43.8,
+      "country": "Argentina"
+    },
+    {
+      "date": "2008",
+      "value": 45,
+      "country": "Argentina"
+    },
+    {
+      "date": "2007",
+      "value": 46.3,
+      "country": "Argentina"
+    },
+    {
+      "date": "2006",
+      "value": 46.4,
+      "country": "Argentina"
+    },
+    {
+      "date": "2005",
+      "value": 47.8,
+      "country": "Argentina"
+    },
+    {
+      "date": "2004",
+      "value": 48.5,
+      "country": "Argentina"
+    },
+    {
+      "date": "2003",
+      "value": 51,
+      "country": "Argentina"
+    },
+    {
+      "date": "2002",
+      "value": 53.8,
+      "country": "Argentina"
+    },
+    {
+      "date": "2001",
+      "value": 53.3,
+      "country": "Argentina"
+    },
+    {
+      "date": "2000",
+      "value": 51.1,
+      "country": "Argentina"
+    },
+    {
+      "date": "2020",
+      "value": 25.1,
+      "country": "Armenia"
+    },
+    {
+      "date": "2019",
+      "value": 30,
+      "country": "Armenia"
+    },
+    {
+      "date": "2018",
+      "value": 34.4,
+      "country": "Armenia"
+    },
+    {
+      "date": "2017",
+      "value": 33.6,
+      "country": "Armenia"
+    },
+    {
+      "date": "2016",
+      "value": 32.5,
+      "country": "Armenia"
+    },
+    {
+      "date": "2015",
+      "value": 32.4,
+      "country": "Armenia"
+    },
+    {
+      "date": "2014",
+      "value": 31.5,
+      "country": "Armenia"
+    },
+    {
+      "date": "2013",
+      "value": 30.6,
+      "country": "Armenia"
+    },
+    {
+      "date": "2012",
+      "value": 29.6,
+      "country": "Armenia"
+    },
+    {
+      "date": "2011",
+      "value": 29.4,
+      "country": "Armenia"
+    },
+    {
+      "date": "2010",
+      "value": 30,
+      "country": "Armenia"
+    },
+    {
+      "date": "2009",
+      "value": 28,
+      "country": "Armenia"
+    },
+    {
+      "date": "2008",
+      "value": 29.2,
+      "country": "Armenia"
+    },
+    {
+      "date": "2007",
+      "value": 31.2,
+      "country": "Armenia"
+    },
+    {
+      "date": "2006",
+      "value": 29.7,
+      "country": "Armenia"
+    },
+    {
+      "date": "2005",
+      "value": 36,
+      "country": "Armenia"
+    },
+    {
+      "date": "2004",
+      "value": 37.5,
+      "country": "Armenia"
+    },
+    {
+      "date": "2003",
+      "value": 33,
+      "country": "Armenia"
+    },
+    {
+      "date": "2002",
+      "value": 34.8,
+      "country": "Armenia"
+    },
+    {
+      "date": "2001",
+      "value": 35.4,
+      "country": "Armenia"
+    },
+    {
+      "date": "2018",
+      "value": 34.3,
+      "country": "Australia"
+    },
+    {
+      "date": "2016",
+      "value": 33.7,
+      "country": "Australia"
+    },
+    {
+      "date": "2014",
+      "value": 34.4,
+      "country": "Australia"
+    },
+    {
+      "date": "2010",
+      "value": 34.7,
+      "country": "Australia"
+    },
+    {
+      "date": "2008",
+      "value": 35.4,
+      "country": "Australia"
+    },
+    {
+      "date": "2004",
+      "value": 33.1,
+      "country": "Australia"
+    },
+    {
+      "date": "2003",
+      "value": 33.5,
+      "country": "Australia"
+    },
+    {
+      "date": "2001",
+      "value": 33.5,
+      "country": "Australia"
+    },
+    {
+      "date": "2020",
+      "value": 29.8,
+      "country": "Austria"
+    },
+    {
+      "date": "2019",
+      "value": 30.2,
+      "country": "Austria"
+    },
+    {
+      "date": "2018",
+      "value": 30.8,
+      "country": "Austria"
+    },
+    {
+      "date": "2017",
+      "value": 29.7,
+      "country": "Austria"
+    },
+    {
+      "date": "2016",
+      "value": 30.8,
+      "country": "Austria"
+    },
+    {
+      "date": "2015",
+      "value": 30.5,
+      "country": "Austria"
+    },
+    {
+      "date": "2014",
+      "value": 30.5,
+      "country": "Austria"
+    },
+    {
+      "date": "2013",
+      "value": 30.8,
+      "country": "Austria"
+    },
+    {
+      "date": "2012",
+      "value": 30.5,
+      "country": "Austria"
+    },
+    {
+      "date": "2011",
+      "value": 30.8,
+      "country": "Austria"
+    },
+    {
+      "date": "2010",
+      "value": 30.3,
+      "country": "Austria"
+    },
+    {
+      "date": "2009",
+      "value": 31.5,
+      "country": "Austria"
+    },
+    {
+      "date": "2008",
+      "value": 30.4,
+      "country": "Austria"
+    },
+    {
+      "date": "2007",
+      "value": 30.6,
+      "country": "Austria"
+    },
+    {
+      "date": "2006",
+      "value": 29.6,
+      "country": "Austria"
+    },
+    {
+      "date": "2005",
+      "value": 28.7,
+      "country": "Austria"
+    },
+    {
+      "date": "2004",
+      "value": 29.8,
+      "country": "Austria"
+    },
+    {
+      "date": "2003",
+      "value": 29.5,
+      "country": "Austria"
+    },
+    {
+      "date": "2000",
+      "value": 29,
+      "country": "Austria"
+    },
+    {
+      "date": "2005",
+      "value": 26.6,
+      "country": "Azerbaijan"
+    },
+    {
+      "date": "2004",
+      "value": 26.6,
+      "country": "Azerbaijan"
+    },
+    {
+      "date": "2003",
+      "value": 26.8,
+      "country": "Azerbaijan"
+    },
+    {
+      "date": "2002",
+      "value": 25.3,
+      "country": "Azerbaijan"
+    },
+    {
+      "date": "2001",
+      "value": 36.5,
+      "country": "Azerbaijan"
+    },
+    {
+      "date": "2016",
+      "value": 32.4,
+      "country": "Bangladesh"
+    },
+    {
+      "date": "2010",
+      "value": 32.1,
+      "country": "Bangladesh"
+    },
+    {
+      "date": "2005",
+      "value": 33.2,
+      "country": "Bangladesh"
+    },
+    {
+      "date": "2000",
+      "value": 33.4,
+      "country": "Bangladesh"
+    },
+    {
+      "date": "2020",
+      "value": 24.4,
+      "country": "Belarus"
+    },
+    {
+      "date": "2019",
+      "value": 25.3,
+      "country": "Belarus"
+    },
+    {
+      "date": "2018",
+      "value": 25.2,
+      "country": "Belarus"
+    },
+    {
+      "date": "2017",
+      "value": 25.4,
+      "country": "Belarus"
+    },
+    {
+      "date": "2016",
+      "value": 25.3,
+      "country": "Belarus"
+    },
+    {
+      "date": "2015",
+      "value": 25.6,
+      "country": "Belarus"
+    },
+    {
+      "date": "2014",
+      "value": 27.2,
+      "country": "Belarus"
+    },
+    {
+      "date": "2013",
+      "value": 26.6,
+      "country": "Belarus"
+    },
+    {
+      "date": "2012",
+      "value": 26.5,
+      "country": "Belarus"
+    },
+    {
+      "date": "2011",
+      "value": 27.2,
+      "country": "Belarus"
+    },
+    {
+      "date": "2010",
+      "value": 28.6,
+      "country": "Belarus"
+    },
+    {
+      "date": "2009",
+      "value": 27.7,
+      "country": "Belarus"
+    },
+    {
+      "date": "2008",
+      "value": 27.8,
+      "country": "Belarus"
+    },
+    {
+      "date": "2007",
+      "value": 29.6,
+      "country": "Belarus"
+    },
+    {
+      "date": "2006",
+      "value": 28.3,
+      "country": "Belarus"
+    },
+    {
+      "date": "2005",
+      "value": 27.6,
+      "country": "Belarus"
+    },
+    {
+      "date": "2004",
+      "value": 26.5,
+      "country": "Belarus"
+    },
+    {
+      "date": "2003",
+      "value": 28.8,
+      "country": "Belarus"
+    },
+    {
+      "date": "2002",
+      "value": 30.3,
+      "country": "Belarus"
+    },
+    {
+      "date": "2001",
+      "value": 30.6,
+      "country": "Belarus"
+    },
+    {
+      "date": "2000",
+      "value": 31.2,
+      "country": "Belarus"
+    },
+    {
+      "date": "2020",
+      "value": 26,
+      "country": "Belgium"
+    },
+    {
+      "date": "2019",
+      "value": 27.2,
+      "country": "Belgium"
+    },
+    {
+      "date": "2018",
+      "value": 27.2,
+      "country": "Belgium"
+    },
+    {
+      "date": "2017",
+      "value": 27.4,
+      "country": "Belgium"
+    },
+    {
+      "date": "2016",
+      "value": 27.6,
+      "country": "Belgium"
+    },
+    {
+      "date": "2015",
+      "value": 27.7,
+      "country": "Belgium"
+    },
+    {
+      "date": "2014",
+      "value": 28.1,
+      "country": "Belgium"
+    },
+    {
+      "date": "2013",
+      "value": 27.7,
+      "country": "Belgium"
+    },
+    {
+      "date": "2012",
+      "value": 27.5,
+      "country": "Belgium"
+    },
+    {
+      "date": "2011",
+      "value": 28.1,
+      "country": "Belgium"
+    },
+    {
+      "date": "2010",
+      "value": 28.4,
+      "country": "Belgium"
+    },
+    {
+      "date": "2009",
+      "value": 28.6,
+      "country": "Belgium"
+    },
+    {
+      "date": "2008",
+      "value": 28.4,
+      "country": "Belgium"
+    },
+    {
+      "date": "2007",
+      "value": 29.2,
+      "country": "Belgium"
+    },
+    {
+      "date": "2006",
+      "value": 28.1,
+      "country": "Belgium"
+    },
+    {
+      "date": "2005",
+      "value": 29.3,
+      "country": "Belgium"
+    },
+    {
+      "date": "2004",
+      "value": 30.5,
+      "country": "Belgium"
+    },
+    {
+      "date": "2003",
+      "value": 28.1,
+      "country": "Belgium"
+    },
+    {
+      "date": "2000",
+      "value": 33.1,
+      "country": "Belgium"
+    },
+    {
+      "date": "2018",
+      "value": 37.9,
+      "country": "Benin"
+    },
+    {
+      "date": "2015",
+      "value": 47.8,
+      "country": "Benin"
+    },
+    {
+      "date": "2011",
+      "value": 43.4,
+      "country": "Benin"
+    },
+    {
+      "date": "2003",
+      "value": 38.6,
+      "country": "Benin"
+    },
+    {
+      "date": "2017",
+      "value": 37.4,
+      "country": "Bhutan"
+    },
+    {
+      "date": "2012",
+      "value": 38.8,
+      "country": "Bhutan"
+    },
+    {
+      "date": "2007",
+      "value": 38.1,
+      "country": "Bhutan"
+    },
+    {
+      "date": "2003",
+      "value": 40.9,
+      "country": "Bhutan"
+    },
+    {
+      "date": "2020",
+      "value": 43.6,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2019",
+      "value": 41.6,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2018",
+      "value": 42.6,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2017",
+      "value": 44.6,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2016",
+      "value": 45.2,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2015",
+      "value": 46.7,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2014",
+      "value": 47.8,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2013",
+      "value": 47.6,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2012",
+      "value": 46.6,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2011",
+      "value": 46.1,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2009",
+      "value": 49.2,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2008",
+      "value": 50.8,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2007",
+      "value": 54.5,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2006",
+      "value": 56.7,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2005",
+      "value": 58.5,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2004",
+      "value": 55,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2002",
+      "value": 59.3,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2001",
+      "value": 57.4,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2000",
+      "value": 61.6,
+      "country": "Bolivia"
+    },
+    {
+      "date": "2011",
+      "value": 33,
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "date": "2007",
+      "value": 33.1,
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "date": "2004",
+      "value": 34,
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "date": "2001",
+      "value": 30,
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "date": "2015",
+      "value": 53.3,
+      "country": "Botswana"
+    },
+    {
+      "date": "2009",
+      "value": 60.5,
+      "country": "Botswana"
+    },
+    {
+      "date": "2002",
+      "value": 64.7,
+      "country": "Botswana"
+    },
+    {
+      "date": "2020",
+      "value": 48.9,
+      "country": "Brazil"
+    },
+    {
+      "date": "2019",
+      "value": 53.5,
+      "country": "Brazil"
+    },
+    {
+      "date": "2018",
+      "value": 53.9,
+      "country": "Brazil"
+    },
+    {
+      "date": "2017",
+      "value": 53.3,
+      "country": "Brazil"
+    },
+    {
+      "date": "2016",
+      "value": 53.4,
+      "country": "Brazil"
+    },
+    {
+      "date": "2015",
+      "value": 51.9,
+      "country": "Brazil"
+    },
+    {
+      "date": "2014",
+      "value": 52,
+      "country": "Brazil"
+    },
+    {
+      "date": "2013",
+      "value": 52.7,
+      "country": "Brazil"
+    },
+    {
+      "date": "2012",
+      "value": 53.4,
+      "country": "Brazil"
+    },
+    {
+      "date": "2011",
+      "value": 52.9,
+      "country": "Brazil"
+    },
+    {
+      "date": "2009",
+      "value": 53.7,
+      "country": "Brazil"
+    },
+    {
+      "date": "2008",
+      "value": 54,
+      "country": "Brazil"
+    },
+    {
+      "date": "2007",
+      "value": 54.9,
+      "country": "Brazil"
+    },
+    {
+      "date": "2006",
+      "value": 55.6,
+      "country": "Brazil"
+    },
+    {
+      "date": "2005",
+      "value": 56.3,
+      "country": "Brazil"
+    },
+    {
+      "date": "2004",
+      "value": 56.5,
+      "country": "Brazil"
+    },
+    {
+      "date": "2003",
+      "value": 57.6,
+      "country": "Brazil"
+    },
+    {
+      "date": "2002",
+      "value": 58.1,
+      "country": "Brazil"
+    },
+    {
+      "date": "2001",
+      "value": 58.4,
+      "country": "Brazil"
+    },
+    {
+      "date": "2020",
+      "value": 40.5,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2019",
+      "value": 40.3,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2018",
+      "value": 41.3,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2017",
+      "value": 40.4,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2016",
+      "value": 40.6,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2015",
+      "value": 38.6,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2014",
+      "value": 37.4,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2013",
+      "value": 36.6,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2012",
+      "value": 36,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2011",
+      "value": 34.3,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2010",
+      "value": 35.7,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2009",
+      "value": 33.8,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2008",
+      "value": 33.6,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2007",
+      "value": 36.1,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2006",
+      "value": 35.7,
+      "country": "Bulgaria"
+    },
+    {
+      "date": "2018",
+      "value": 43,
+      "country": "Burkina Faso"
+    },
+    {
+      "date": "2014",
+      "value": 35.3,
+      "country": "Burkina Faso"
+    },
+    {
+      "date": "2009",
+      "value": 39.8,
+      "country": "Burkina Faso"
+    },
+    {
+      "date": "2003",
+      "value": 43.3,
+      "country": "Burkina Faso"
+    },
+    {
+      "date": "2020",
+      "value": 37.5,
+      "country": "Burundi"
+    },
+    {
+      "date": "2013",
+      "value": 38.6,
+      "country": "Burundi"
+    },
+    {
+      "date": "2006",
+      "value": 33.4,
+      "country": "Burundi"
+    },
+    {
+      "date": "2015",
+      "value": 42.4,
+      "country": "Cabo Verde"
+    },
+    {
+      "date": "2007",
+      "value": 47.2,
+      "country": "Cabo Verde"
+    },
+    {
+      "date": "2001",
+      "value": 52.5,
+      "country": "Cabo Verde"
+    },
+    {
+      "date": "2014",
+      "value": 46.6,
+      "country": "Cameroon"
+    },
+    {
+      "date": "2007",
+      "value": 42.8,
+      "country": "Cameroon"
+    },
+    {
+      "date": "2001",
+      "value": 42.1,
+      "country": "Cameroon"
+    },
+    {
+      "date": "2019",
+      "value": 31.7,
+      "country": "Canada"
+    },
+    {
+      "date": "2018",
+      "value": 32.5,
+      "country": "Canada"
+    },
+    {
+      "date": "2017",
+      "value": 33.3,
+      "country": "Canada"
+    },
+    {
+      "date": "2016",
+      "value": 32.7,
+      "country": "Canada"
+    },
+    {
+      "date": "2015",
+      "value": 33.7,
+      "country": "Canada"
+    },
+    {
+      "date": "2014",
+      "value": 33.2,
+      "country": "Canada"
+    },
+    {
+      "date": "2013",
+      "value": 33.8,
+      "country": "Canada"
+    },
+    {
+      "date": "2012",
+      "value": 33.5,
+      "country": "Canada"
+    },
+    {
+      "date": "2011",
+      "value": 32.7,
+      "country": "Canada"
+    },
+    {
+      "date": "2010",
+      "value": 33.6,
+      "country": "Canada"
+    },
+    {
+      "date": "2009",
+      "value": 34,
+      "country": "Canada"
+    },
+    {
+      "date": "2008",
+      "value": 33.9,
+      "country": "Canada"
+    },
+    {
+      "date": "2007",
+      "value": 33.8,
+      "country": "Canada"
+    },
+    {
+      "date": "2006",
+      "value": 34.1,
+      "country": "Canada"
+    },
+    {
+      "date": "2005",
+      "value": 33.6,
+      "country": "Canada"
+    },
+    {
+      "date": "2004",
+      "value": 33.8,
+      "country": "Canada"
+    },
+    {
+      "date": "2003",
+      "value": 33.8,
+      "country": "Canada"
+    },
+    {
+      "date": "2002",
+      "value": 33.6,
+      "country": "Canada"
+    },
+    {
+      "date": "2001",
+      "value": 33.6,
+      "country": "Canada"
+    },
+    {
+      "date": "2000",
+      "value": 33.4,
+      "country": "Canada"
+    },
+    {
+      "date": "2008",
+      "value": 56.2,
+      "country": "Central African Republic"
+    },
+    {
+      "date": "2018",
+      "value": 37.5,
+      "country": "Chad"
+    },
+    {
+      "date": "2011",
+      "value": 43.3,
+      "country": "Chad"
+    },
+    {
+      "date": "2003",
+      "value": 39.8,
+      "country": "Chad"
+    },
+    {
+      "date": "2020",
+      "value": 47,
+      "country": "Chile"
+    },
+    {
+      "date": "2017",
+      "value": 45.3,
+      "country": "Chile"
+    },
+    {
+      "date": "2015",
+      "value": 45.3,
+      "country": "Chile"
+    },
+    {
+      "date": "2013",
+      "value": 46.8,
+      "country": "Chile"
+    },
+    {
+      "date": "2011",
+      "value": 46.9,
+      "country": "Chile"
+    },
+    {
+      "date": "2009",
+      "value": 47.4,
+      "country": "Chile"
+    },
+    {
+      "date": "2006",
+      "value": 47.7,
+      "country": "Chile"
+    },
+    {
+      "date": "2003",
+      "value": 51.5,
+      "country": "Chile"
+    },
+    {
+      "date": "2000",
+      "value": 52.8,
+      "country": "Chile"
+    },
+    {
+      "date": "2020",
+      "value": 37.1,
+      "country": "China"
+    },
+    {
+      "date": "2019",
+      "value": 38.2,
+      "country": "China"
+    },
+    {
+      "date": "2018",
+      "value": 38.5,
+      "country": "China"
+    },
+    {
+      "date": "2017",
+      "value": 39.1,
+      "country": "China"
+    },
+    {
+      "date": "2016",
+      "value": 38.5,
+      "country": "China"
+    },
+    {
+      "date": "2015",
+      "value": 38.6,
+      "country": "China"
+    },
+    {
+      "date": "2014",
+      "value": 39.2,
+      "country": "China"
+    },
+    {
+      "date": "2013",
+      "value": 39.7,
+      "country": "China"
+    },
+    {
+      "date": "2012",
+      "value": 42.2,
+      "country": "China"
+    },
+    {
+      "date": "2011",
+      "value": 42.4,
+      "country": "China"
+    },
+    {
+      "date": "2010",
+      "value": 43.7,
+      "country": "China"
+    },
+    {
+      "date": "2008",
+      "value": 43,
+      "country": "China"
+    },
+    {
+      "date": "2005",
+      "value": 40.9,
+      "country": "China"
+    },
+    {
+      "date": "2002",
+      "value": 42,
+      "country": "China"
+    },
+    {
+      "date": "2020",
+      "value": 53.5,
+      "country": "Colombia"
+    },
+    {
+      "date": "2019",
+      "value": 51.3,
+      "country": "Colombia"
+    },
+    {
+      "date": "2018",
+      "value": 50.4,
+      "country": "Colombia"
+    },
+    {
+      "date": "2017",
+      "value": 49.7,
+      "country": "Colombia"
+    },
+    {
+      "date": "2016",
+      "value": 50.6,
+      "country": "Colombia"
+    },
+    {
+      "date": "2015",
+      "value": 51,
+      "country": "Colombia"
+    },
+    {
+      "date": "2014",
+      "value": 52.6,
+      "country": "Colombia"
+    },
+    {
+      "date": "2013",
+      "value": 52.6,
+      "country": "Colombia"
+    },
+    {
+      "date": "2012",
+      "value": 52.6,
+      "country": "Colombia"
+    },
+    {
+      "date": "2011",
+      "value": 53.5,
+      "country": "Colombia"
+    },
+    {
+      "date": "2010",
+      "value": 54.6,
+      "country": "Colombia"
+    },
+    {
+      "date": "2009",
+      "value": 54.3,
+      "country": "Colombia"
+    },
+    {
+      "date": "2008",
+      "value": 55.3,
+      "country": "Colombia"
+    },
+    {
+      "date": "2005",
+      "value": 53.9,
+      "country": "Colombia"
+    },
+    {
+      "date": "2004",
+      "value": 55,
+      "country": "Colombia"
+    },
+    {
+      "date": "2003",
+      "value": 53.6,
+      "country": "Colombia"
+    },
+    {
+      "date": "2002",
+      "value": 56,
+      "country": "Colombia"
+    },
+    {
+      "date": "2001",
+      "value": 57.5,
+      "country": "Colombia"
+    },
+    {
+      "date": "2000",
+      "value": 58.7,
+      "country": "Colombia"
+    },
+    {
+      "date": "2014",
+      "value": 45.3,
+      "country": "Comoros"
+    },
+    {
+      "date": "2004",
+      "value": 55.9,
+      "country": "Comoros"
+    },
+    {
+      "date": "2020",
+      "value": 44.7,
+      "country": "Congo, Dem. Rep."
+    },
+    {
+      "date": "2012",
+      "value": 42.1,
+      "country": "Congo, Dem. Rep."
+    },
+    {
+      "date": "2004",
+      "value": 42.2,
+      "country": "Congo, Dem. Rep."
+    },
+    {
+      "date": "2011",
+      "value": 48.9,
+      "country": "Congo, Rep."
+    },
+    {
+      "date": "2005",
+      "value": 47.3,
+      "country": "Congo, Rep."
+    },
+    {
+      "date": "2020",
+      "value": 49.2,
+      "country": "Costa Rica"
+    },
+    {
+      "date": "2019",
+      "value": 48.2,
+      "country": "Costa Rica"
+    },
+    {
+      "date": "2018",
+      "value": 48,
+      "country": "Costa Rica"
+    },
+    {
+      "date": "2017",
+      "value": 48.3,
+      "country": "Costa Rica"
+    },
+    {
+      "date": "2016",
+      "value": 48.7,
+      "country": "Costa Rica"
+    }
+  ]
+}
