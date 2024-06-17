@@ -1,0 +1,49 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/BenedekReka/BenedekReka.github.io/main/Hazassag_Romania.csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+      {"filter": {"field": "ev", "range": [1990, 2022]}},
+      {
+        "filter": {"selection": "filterYear"}
+      }
+    ],
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "megye",
+        "type": "nominal",
+        "title": "Megye"
+      },
+      "y": {
+        "field": "szam",
+        "type": "quantitative",
+        "title": "Házasságok száma"
+      },
+      "color": {
+        "field": "ev",
+        "type": "ordinal",
+        "title": "Év"
+      },
+      "tooltip": [
+        {"field": "megye", "title": "Megye"},
+        {"field": "szam", "title": "Válások száma"},
+        {"field": "ev", "title": "Év"}
+      ]
+    },
+    "selection": {
+      "filterYear": {
+        "type": "single",
+        "fields": ["ev"],
+        "bind": {
+          "input": "range",
+          "min": 1990,
+          "max": 2022,
+          "step": 1,
+          "name": "Évek:"
+        }
+      }
+    }
+  }

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/BenedekReka/BenedekReka.github.io/main/adatok_hb.csv"
+  },
+  "layer": [
+    {
+      "mark": {"type": "line", "strokeWidth": 3},
+      "encoding": {
+        "x": {"field": "ev", "type": "ordinal", "title": "Év"},
+        "y": {"field": "szam", "type": "quantitative", "title": "Életkor"},
+        "color": {
+          "field": "Nem",
+          "type": "nominal",
+          "scale": {"domain": ["Feminin", "Masculin"], "range": ["red", "blue"]}
+        }
+      }
+    },
+    {
+      "mark": {"type": "point", "tooltip": true, "strokeWidth": 3},
+      "encoding": {
+        "x": {"field": "ev", "type": "ordinal", "title": "Év"},
+        "y": {"field": "szam", "type": "quantitative", "title": "Életkor"},
+        "color": {
+          "field": "Nem",
+          "type": "nominal",
+          "scale": {"domain": ["Feminin", "Masculin"], "range": ["red", "blue"]}
+        },
+        "tooltip": [
+          {"field": "ev", "type": "ordinal", "title": "Év"},
+          {"field": "szam", "type": "quantitative", "title": "Életkor"},
+          {"field": "Nem", "type": "nominal", "title": "Nem"}
+        ]
+      }
+    }
+  ],
+  "width": 700,
+  "height": 300,
+  "title": "Nemek átlagéletkora első házasság idején",
+  "config": {}
+}

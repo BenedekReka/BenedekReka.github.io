@@ -1,1 +1,94 @@
-Helló
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="s2_example2 (1).css">
+    <title>Házassági és válási adatvizualizáció Európa és Románia tekintetében</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+
+<body>
+    <h1 class="big" style="margin-bottom: 0px;">
+        Házassági és válási adatvizualizáció
+    </h1>
+    <p style="margin-top: 0px; color: darkblue">
+        Your Name | <a href="https://www.linkedin.com/in/finnmcevoy/">LinkedIn</a> | <a href="https://www.github.com/FM-ds">GitHub</a>
+    </p>
+    <h3 class="small">
+        Ez a weboldal a házassági és válási adatokat vizualizálja Románia szinten, a vizsgált időszak 1990-2022-ig terjed.
+    </h3>
+
+    <section>
+        <div class="chart-description">
+            <h2>Nemek átlagéletkora az első házasság idején: 1996-2022</h2>
+            <p>
+                Az ábrán láthatjuk, hogy mindkét nem átlagéletkora konstans növekedést mutatott a vizsdált időszakban.
+            </p>
+        </div>
+        <figure id="Location1"></figure>
+    </section>
+
+    <section>
+        <div class="chart-description">
+            <h2>Elvált személyek száma korcsoportok szerint: 1990-2022</h2>
+            <p>
+                This is a more advanced chart. We'll cover charts like this in more detail later today. Don't worry if you don't understand it yet.
+                Feel free to replace both charts with your own examples.
+            </p>
+        </div>
+        <figure id="Location2"></figure>
+    </section>
+
+    <section>
+        <div class="chart-description">
+            <h2>Section 3: Another Chart</h2>
+            <p>
+                This is a more advanced chart. We'll cover charts like this in more detail later today. Don't worry if you don't understand it yet.
+                Feel free to replace both charts with your own examples.
+            </p>
+        </div>
+        <figure id="Location3"></figure>
+    </section>
+
+    <section>
+        <div class="chart-description">
+            <h2>Section 4: Another Chart</h2>
+            <p>
+                This is a more advanced chart. We'll cover charts like this in more detail later today. Don't worry if you don't understand it yet.
+                Feel free to replace both charts with your own examples.
+            </p>
+        </div>
+        <figure id="Location4"></figure>
+    </section>
+
+    <section>
+        <div class="chart-description">
+            <h2>Section 5: Flourish Visualization</h2>
+            <p>
+                This is a Flourish visualization embedded directly into the webpage.
+            </p>
+        </div>
+        <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/18406695">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+        </div>
+    </section>
+
+    <script>
+        var figure_1_spec = "avarage_age.json";
+        var figure_2_spec = "histogram.json";
+        var figure_3_spec = "divorces_interactive.json";
+        var figure_4_spec = "marriage_interactive.json";
+
+        vegaEmbed('#Location1', figure_1_spec);
+        vegaEmbed('#Location2', figure_2_spec);
+        vegaEmbed('#Location3', figure_3_spec);
+        vegaEmbed('#Location4', figure_4_spec);
+
+        // Removed vegaEmbed for Location5, as Flourish embed is used instead
+    </script>
+</body>
+
+</html>
