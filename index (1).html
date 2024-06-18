@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="s2_example2 (1).css">
+    <title> Románia házasodási és válási trendjeinek vizualizációja</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+
+<body>
+    <h1 class="big" style="margin-bottom: 0px;">
+        Románia házasodási és válási trendjeinek vizualizációja
+    </h1>
+    <p style="margin-top: 0px; color: darkblue">
+        Benedek Réka |  <a href="https://github.com/BenedekReka">GitHub</a>
+    </p>
+    <h3 class="small">
+        Ez a weboldal a házassági és válási adatokat vizualizálja Románia szinten, a vizsgált időszak 1990-2022-ig terjed.
+    </h3>
+
+    <section>
+        <div class="chart-description">
+            <h2>Nemek átlagéletkora az első házasság idején: 1996-2022</h2>
+            <p>
+                Az ábrán láthatjuk, hogy mindkét nem átlagéletkora a házasság idején konstans növekedést mutatott a vizsdált időszakban. 1996-ban az első házasság idején az átlagéletkor 30 év volt, ez 2022-re 36 évre emelkedett a férfiak esetén, a nők esetén 27 és 33 év. Azt is megfigyeljetjük, hogy a két nem első házasság előtti átlagéletkora követte egymást.
+            </p>
+        </div>
+        <figure id="Location1"></figure>
+    </section>
+
+    <section>
+        <div class="chart-description">
+            <h2>Házasságban töltött évek száma: 1990-2022</h2>
+            <p>
+                Ezen ábra azt mutaja meg, hogy a házas személyek hány évig voltak házasok: kevesebb, mint egy év, egy év, 20 évnél több, stb. Láthatjuk, hogy a 90-es évektől kezdődően a legnagyobb arányt az 5-9 éves házasságok tették ki, 2016-tól megfordult  trend és a 20 évnél nagyobb élettartamú házasságok kerültek többségbe. Ugyanakkor érdemes látni azt is, hogy a házasságok száma ezzel egyidőben csökkent.
+            </p>
+        </div>
+        <figure id="Location2"></figure>
+    </section>
+
+    <section>
+        <div class="chart-description">
+            <h2>Romániában elvált személyek száma megyénként: 1990-2022</h2>
+            <p>
+                Ez egy interaktív ábra, amely az elvált személyek számát mutatja meg minden romániai megyében, minden évre a vizsgált perióduson belül. A fővárost is belevettem a megyék közé, és láthatjuk, hogy szembetűnően kiugrik a megyék soraiból, természetesen a lakosság száma miatt.  
+            </p>
+        </div>
+        <figure id="Location3"></figure>
+    </section>
+
+    <section>
+        <div class="chart-description">
+            <h2>Házasságok száma Romániában megyénként: 1990-2022</h2>
+            <p>
+                Az előző ábrához hasonlóan működik ez a vizualizáció is, mutatva a friss házas személyek számát megyénként.
+            </p>
+        </div>
+        <figure id="Location4"></figure>
+    </section>
+
+    <section>
+        <div class="chart-description">
+            <h2>Romániából elvándorolt személyek száma megyénként: 1990-2022</h2>
+            <p>
+                Az utolsó ábra az elvándorolt személyek számát mutatja megyénként és összesen minden évre. Fontos látnunk, hogy a házasságok és válások számát nagyban befolyásolja az emigrálás. A vizualizációt nézve megfigyelhetjük, hogy 1990-től a kétezres évek elejéig magas volt a kivándorolt személyek száma, majd 2000-től egész 2012-ig jelentősen csökkent az országot elhagyók száma, majd ismét növekedésnek indult. Összehasonlítva a házasságok számát az emigráltak számával észrevehetjük, hogy azok ellentétes irányba mozognak, tehát ha nőtt az országot elhagyók száma, akkor a házasságok száma csökkent, ugyanígy a válások esetén is. Azonabn fontos látnunk, hogy a házasságok számát a népességi adatokon túl más tényezők is befolyásolják, ezen más tényezők hatását főként a kétezres évek közepétől lehet nyomon érni.
+            </p>
+        </div>
+        <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/18406695">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+        </div>
+    </section>
+
+    <script>
+        var figure_1_spec = "avarage_age.json";
+        var figure_2_spec = "histogram.json";
+        var figure_3_spec = "divorces_interactive.json";
+        var figure_4_spec = "marriage_interactive.json";
+
+        vegaEmbed('#Location1', figure_1_spec);
+        vegaEmbed('#Location2', figure_2_spec);
+        vegaEmbed('#Location3', figure_3_spec);
+        vegaEmbed('#Location4', figure_4_spec);
+    </script>
+</body>
+
+</html>
